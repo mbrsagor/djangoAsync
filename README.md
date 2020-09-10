@@ -25,4 +25,4 @@ If you want to import special parts of a demo (Theme Options, Widgets, etc), ple
 There are two methods to import demos: Standard Mode and Alternative Mode.
 If your server doesn't meet the Porto's server requirements or any issues with Standard Mode, please use Alternative Mode.
 
-[!](https://res.cloudinary.com/mbrsagor/image/upload/v1599717715/demo_importer_vclci9.jpg)
+[](https://res.cloudinary.com/mbrsagor/image/upload/v1599717715/demo_importer_vclci9.jpg)
