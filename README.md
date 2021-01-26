@@ -13,7 +13,7 @@ cd djangoAsync
 virtualenv venv --python=python3.8
 source venv/bin/activate
 pip install -r requirements.text
-./manage.py migrare
+./manage.py migrate
 ./manage.py createsuperuser
 ./manage.py runserver
 ```
